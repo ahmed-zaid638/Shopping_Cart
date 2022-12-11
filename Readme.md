@@ -20,7 +20,8 @@
 
 ## Technologiest / tools
 - Pure javscript / pure css
-- font aweosme library 
+- fontaweosme library 
+- google fonts
 
 
 
