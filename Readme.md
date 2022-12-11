@@ -22,6 +22,8 @@
 - Pure javscript / pure css
 - fontaweosme library 
 - google fonts
+- pixel images 
+- 
 
 
 
