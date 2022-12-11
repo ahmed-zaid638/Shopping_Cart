@@ -1,0 +1,32 @@
+.products .container {
+  width: 80%;
+}
+.prodcut-item {
+  width: 100%;
+  display: block;
+  position: relative;
+  margin: 0;
+  border-radius: 10px;
+}
+.prodcut-item img {
+  max-width: 100%;
+  background-position: center center;
+  background-size: cover;
+}
+.prouct-item-desc {
+  margin: 0;
+  padding: 10px;
+}
+.prouct-item-desc a {
+  font-size: 30px;
+}
+.prouct-item-desc p {
+  width: 70%;
+  margin-right: 7px;
+}
+.product-item-action {
+  position: relative;
+}
+.product-item-action .addtocart {
+  bottom: 20px;
+}
