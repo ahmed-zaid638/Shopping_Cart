@@ -23,7 +23,6 @@
 - fontaweosme library 
 - google fonts
 - pixel images 
-- 
 
 
 
