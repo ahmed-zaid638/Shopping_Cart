@@ -18,6 +18,9 @@
 [4] favourites  [comming]
 
 
+## Technologiest / tools
+- Pure javscript / pure css
+- font aweosme library 
 
 
 
