@@ -102,6 +102,20 @@ header .profile .cart span {
   align-items: center;
   justify-content: center;
 }
+
+@media (max-width: 767px) {
+  .logo {
+    font-size: 20px;
+  }
+
+  header {
+    background-color: var(--main-color);
+  }
+  header .header-content div li a {
+    font-size: 20px;
+  }
+
+}
 /* // header  */
 .products .container {
   padding: 50px 0;
