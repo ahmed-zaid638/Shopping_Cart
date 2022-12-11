@@ -1,7 +1,7 @@
 # Shopping_Cart
 Demo :  https://ahmed-zaid638.github.io/Shopping_Cart/
 
-=====> Project Functionalities <======
+# Project Functionalities <======
 
 [1] login / resgister / logout
 - user can sign up for new acount and will added to database (local storage )
