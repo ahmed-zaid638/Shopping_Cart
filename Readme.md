@@ -1,7 +1,7 @@
 # Shopping_Cart
 Demo :  https://ahmed-zaid638.github.io/Shopping_Cart/
 
-===== Project Functionalities ======
+=====> Project Functionalities <======
 
 [1] login / resgister / logout
 - user can sign up for new acount and will added to database (local storage )
@@ -12,7 +12,20 @@ Demo :  https://ahmed-zaid638.github.io/Shopping_Cart/
 - when user add product to cart if logged in will add product and if not will redirect to sign up page 
 - also can remove any added prodcut from cart
 
-[3] favourites  [comming]
+[4] Search 
+- using search bar to search products that match the input 
+
+[4] favourites  [comming]
+
+
+
+
+
+
+
+
+
+
 
 
 
