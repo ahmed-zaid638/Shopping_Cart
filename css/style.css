@@ -166,7 +166,7 @@ header .profile .cart span {
   curosr : pointer ;
 }
 .product-item-action .addedtocart {
-  display: none;
+/*   display: none;
   position: absolute;
   right: 20px;
   padding: 10px 12px;
@@ -178,7 +178,7 @@ header .profile .cart span {
   background-color: #fcfcfc;
   font-size: 20px;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
-  curosr : pointer ;
+  curosr : pointer ; */
 }
 @media (max-width: 992px) {
   .prodcut-item {
